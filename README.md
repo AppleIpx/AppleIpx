@@ -16,8 +16,3 @@
     <a href="https://vk.com/apple_ipx" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </div>
-
----
-
-## 🧪 Also worked with:
-- Java
